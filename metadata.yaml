@@ -1,0 +1,38 @@
+_repo: Police---_18515
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hutt, Henry
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '8076'
+    url: http://www.gutenberg.org/2009/agents/8076
+covers:
+- cover_type: archival
+  image_path: 18515-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2006-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18515'
+  lccn: '15025467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories, American'
+tableOfContents: The third eye -- The immortal -- The ladies of the lake -- One over
+  -- Un peu d'amour -- The eggs of the Silver Moon.
+title: Police!!!
+url: http://www.gutenberg.org/ebooks/18515
